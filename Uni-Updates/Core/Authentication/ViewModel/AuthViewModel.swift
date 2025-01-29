@@ -1,6 +1,6 @@
 //
 //  AuthViewModel.swift
-//  INDI-POLITICS
+//  Uni-Updates
 //
 //  Created by Atharva Lavhate on 25/01/25.
 //
