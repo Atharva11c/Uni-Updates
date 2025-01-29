@@ -1,6 +1,6 @@
 //
 //  RegistrationView.swift
-//  INDI-POLITICS
+//  Uni-Updates
 //
 //  Created by Atharva Lavhate on 24/01/25.
 //
